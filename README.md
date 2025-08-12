@@ -13,6 +13,7 @@ A curated collection of cutting-edge AI agent projects, frameworks, and research
   - [🧠 AI Assistant & Chat Agents](#-ai-assistant--chat-agents)
   - [🌐 Browser Automation & Web Agents](#-browser-automation--web-agents)
   - [💰 Financial Trading Agents](#-financial-trading-agents)
+  - [🔧 System Prompts & Models](#-system-prompts--models)
   - [🔧 Development Frameworks & Tools](#-development-frameworks--tools)
 - [🔧 Frameworks & Tools](#-frameworks--tools)
 - [📚 Research Papers](#-research-papers)
@@ -29,6 +30,7 @@ A curated collection of cutting-edge AI agent projects, frameworks, and research
 |---------|-------------|----------|-------|--------------|
 | [OpenDevin](https://github.com/OpenDevin/OpenDevin) | An open-source alternative to Devin | Python | 10k+ | 2024 |
 | [OpenHands](https://github.com/All-Hands-AI/OpenHands) | 🙌 OpenHands: Code Less, Make More | Python | 62k+ | 2024 |
+| [MetaGPT](https://github.com/FoundationAgents/MetaGPT) | 🌟 The Multi-Agent Framework: First AI Software Company | Python | 57k+ | 2024 |
 | [Sweep](https://github.com/sweepai/sweep) | AI-powered junior developer for small features and bug fixes | Python | 15k+ | 2024 |
 | [GPT Engineer](https://github.com/AntonOsika/gpt-engineer) | Specify what you want it to build, the AI asks for clarification, and then builds it | Python | 40k+ | 2024 |
 | [MetaGPT](https://github.com/geekan/MetaGPT) | The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo | Python | 40k+ | 2024 |
@@ -87,6 +89,9 @@ A curated collection of cutting-edge AI agent projects, frameworks, and research
 | [ChatGPT](https://chat.openai.com/) | AI assistant by OpenAI | - | - | 2024 |
 | [Bard](https://bard.google.com/) | AI assistant by Google | - | - | 2024 |
 | [Perplexity](https://www.perplexity.ai/) | AI-powered search and research assistant | - | - | 2024 |
+| [Dify](https://github.com/langgenius/dify) | Production-ready platform for agentic workflow development | TypeScript | 110k+ | 2024 |
+| [Lobe Chat](https://github.com/lobehub/lobe-chat) | 🤯 Lobe Chat - an open-source, modern design AI chat framework | TypeScript | 64k+ | 2024 |
+| [Gemini CLI](https://github.com/google-gemini/gemini-cli) | An open-source AI agent that brings the power of Gemini directly into your terminal | TypeScript | 68k+ | 2024 |
 | [Cherry Studio](https://github.com/CherryHQ/cherry-studio) | 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers | TypeScript | 31k+ | 2024 |
 | [Suna](https://github.com/kortix-ai/suna) | Suna - Open Source Generalist AI Agent | TypeScript | 17k+ | 2024 |
 
@@ -103,10 +108,18 @@ A curated collection of cutting-edge AI agent projects, frameworks, and research
 |---------|-------------|----------|-------|--------------|
 | [TradingAgents](https://github.com/TauricResearch/TradingAgents) | TradingAgents: Multi-Agents LLM Financial Trading Framework | Python | 18k+ | 2024 |
 
+### 🔧 System Prompts & Models
+
+| Project | Description | Language | Stars | Last Updated |
+|---------|-------------|----------|-------|--------------|
+| [System Prompts and Models](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app System Prompts, Tools & AI Models | - | 75k+ | 2024 |
+
 ### 🔧 Development Frameworks & Tools
 
 | Project | Description | Language | Stars | Last Updated |
 |---------|-------------|----------|-------|--------------|
+| [Langflow](https://github.com/langflow-ai/langflow) | Langflow is a powerful tool for building and deploying AI-powered agents and workflows | Python | 98k+ | 2024 |
+| [RAGFlow](https://github.com/infiniflow/ragflow) | RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding | TypeScript | 62k+ | 2024 |
 | [Haystack](https://github.com/deepset-ai/haystack) | LLM framework for building production-ready applications | Python | 10k+ | 2024 |
 | [AutoGen Studio](https://github.com/microsoft/autogen) | Visual interface for AutoGen | Python | 25k+ | 2024 |
 | [LangSmith](https://github.com/langchain-ai/langsmith) | Platform for debugging, testing, evaluating, and monitoring LLM applications | Python | 5k+ | 2024 |
