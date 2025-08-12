@@ -50,6 +50,7 @@ A curated collection of cutting-edge AI agent projects, frameworks, and research
 | [GPT Researcher](https://github.com/assafelovic/gpt-researcher) | GPT based autonomous researcher that helps in researching various topics | Python | 8k+ | 2024 |
 | [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | An experimental open-source attempt to make GPT-4 fully autonomous | Python | 150k+ | 2024 |
 | [BabyAGI](https://github.com/yoheinakajima/babyagi) | An AI-powered task management system | Python | 20k+ | 2024 |
+| [Vanna](https://github.com/vanna-ai/vanna) | 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄 | Python | 19k+ | 2024 |
 | [LangChain](https://github.com/langchain-ai/langchain) | Framework for developing applications with LLMs | Python/JS | 70k+ | 2024 |
 | [LlamaIndex](https://github.com/run-llama/llama_index) | Data framework for LLM applications | Python | 25k+ | 2024 |
 
@@ -75,6 +76,8 @@ A curated collection of cutting-edge AI agent projects, frameworks, and research
 | [AutoGen](https://github.com/microsoft/autogen) | A programming framework for agentic AI | Python | 48k+ | 2024 |
 | [CrewAI Inc](https://github.com/crewAIInc/crewAI) | Framework for orchestrating role-playing, autonomous AI agents | Python | 35k+ | 2024 |
 | [Agno](https://github.com/agno-agi/agno) | Full-stack framework for building Multi-Agent Systems with memory, knowledge and reasoning | Python | 31k+ | 2024 |
+| [SmolAgents](https://github.com/huggingface/smolagents) | 🤗 smolagents: a barebones library for agents that think in code | Python | 22k+ | 2024 |
+| [Swarm](https://github.com/openai/swarm) | Educational framework exploring ergonomic, lightweight multi-agent orchestration | Python | 20k+ | 2024 |
 
 ### 💼 Business & Productivity Agents
 
@@ -223,6 +226,7 @@ A curated collection of cutting-edge AI agent projects, frameworks, and research
 - **[Berkeley CS285: Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/)**
 - **[Coursera: Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction)**
 - **[Microsoft AI Agents for Beginners](https://github.com/microsoft/ai-agents-for-beginners)**: 11 Lessons to Get Started Building AI Agents
+- **[Hugging Face Agents Course](https://github.com/huggingface/agents-course)**: This repository contains the Hugging Face Agents Course
 
 ### Blogs & Newsletters
 - **[Anthropic Blog](https://www.anthropic.com/research)**: AI safety and research updates
@@ -232,6 +236,7 @@ A curated collection of cutting-edge AI agent projects, frameworks, and research
 
 ### Awesome Lists
 - **[Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps)**: Collection of awesome LLM apps with AI Agents and RAG
+- **[Awesome AI Agents](https://github.com/e2b-dev/awesome-ai-agents)**: A list of AI autonomous agents
 
 ## 🚀 Architecture Patterns
 
