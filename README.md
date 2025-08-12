@@ -234,4 +234,4 @@ Thanks to all the researchers, developers, and contributors who have advanced th
 
 ---
 
-*Last updated: December 2024*
+*Last updated: August 2025*
