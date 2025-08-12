@@ -14,6 +14,7 @@ A curated collection of cutting-edge AI agent projects, frameworks, and research
   - [🌐 Browser Automation & Web Agents](#-browser-automation--web-agents)
   - [💰 Financial Trading Agents](#-financial-trading-agents)
   - [🔧 System Prompts & Models](#-system-prompts--models)
+  - [📊 Monitoring & Automation Agents](#-monitoring--automation-agents)
   - [🔧 Development Frameworks & Tools](#-development-frameworks--tools)
 - [🔧 Frameworks & Tools](#-frameworks--tools)
 - [📚 Research Papers](#-research-papers)
@@ -70,6 +71,7 @@ A curated collection of cutting-edge AI agent projects, frameworks, and research
 | [AgentVerse](https://github.com/OpenBMB/AgentVerse) | A Framework for Multi-Agent Collaboration | Python | 5k+ | 2024 |
 | [CAMEL](https://github.com/camel-ai/camel) | Communicative Agents for Mind Exploration | Python | 8k+ | 2024 |
 | [LangGraph](https://github.com/langchain-ai/langgraph) | Build stateful, multi-actor applications with LLMs | Python | 15k+ | 2024 |
+| [AutoGen](https://github.com/microsoft/autogen) | A programming framework for agentic AI | Python | 48k+ | 2024 |
 
 ### 💼 Business & Productivity Agents
 
@@ -93,6 +95,7 @@ A curated collection of cutting-edge AI agent projects, frameworks, and research
 | [Lobe Chat](https://github.com/lobehub/lobe-chat) | 🤯 Lobe Chat - an open-source, modern design AI chat framework | TypeScript | 64k+ | 2024 |
 | [Gemini CLI](https://github.com/google-gemini/gemini-cli) | An open-source AI agent that brings the power of Gemini directly into your terminal | TypeScript | 68k+ | 2024 |
 | [Cherry Studio](https://github.com/CherryHQ/cherry-studio) | 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers | TypeScript | 31k+ | 2024 |
+| [Anything LLM](https://github.com/Mintplex-Labs/anything-llm) | The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder | JavaScript | 47k+ | 2024 |
 | [Suna](https://github.com/kortix-ai/suna) | Suna - Open Source Generalist AI Agent | TypeScript | 17k+ | 2024 |
 
 ### 🌐 Browser Automation & Web Agents
@@ -107,12 +110,19 @@ A curated collection of cutting-edge AI agent projects, frameworks, and research
 | Project | Description | Language | Stars | Last Updated |
 |---------|-------------|----------|-------|--------------|
 | [TradingAgents](https://github.com/TauricResearch/TradingAgents) | TradingAgents: Multi-Agents LLM Financial Trading Framework | Python | 18k+ | 2024 |
+| [OpenBB](https://github.com/OpenBB-finance/OpenBB) | Financial data aggregator for humans and AI agents | Python | 49k+ | 2024 |
 
 ### 🔧 System Prompts & Models
 
 | Project | Description | Language | Stars | Last Updated |
 |---------|-------------|----------|-------|--------------|
 | [System Prompts and Models](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app System Prompts, Tools & AI Models | - | 75k+ | 2024 |
+
+### 📊 Monitoring & Automation Agents
+
+| Project | Description | Language | Stars | Last Updated |
+|---------|-------------|----------|-------|--------------|
+| [Huginn](https://github.com/huginn/huginn) | Create agents that monitor and act on your behalf. Your agents are standing by! | Ruby | 47k+ | 2024 |
 
 ### 🔧 Development Frameworks & Tools
 
@@ -123,6 +133,7 @@ A curated collection of cutting-edge AI agent projects, frameworks, and research
 | [Haystack](https://github.com/deepset-ai/haystack) | LLM framework for building production-ready applications | Python | 10k+ | 2024 |
 | [AutoGen Studio](https://github.com/microsoft/autogen) | Visual interface for AutoGen | Python | 25k+ | 2024 |
 | [LangSmith](https://github.com/langchain-ai/langsmith) | Platform for debugging, testing, evaluating, and monitoring LLM applications | Python | 5k+ | 2024 |
+| [Unsloth](https://github.com/unslothai/unsloth) | Fine-tuning & Reinforcement Learning for LLMs. Train OpenAI gpt-oss, Qwen3, Llama 4, DeepSeek-R1, Gemma 3, TTS 2x faster with 70% less VRAM | Python | 43k+ | 2024 |
 
 ## 🔧 Frameworks & Tools
 
