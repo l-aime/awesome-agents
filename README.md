@@ -37,6 +37,7 @@ A curated collection of cutting-edge AI agent projects, frameworks, and research
 | [MetaGPT](https://github.com/geekan/MetaGPT) | The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo | Python | 40k+ | 2024 |
 | [ChatDev](https://github.com/OpenBMB/ChatDev) | Communicative Agents for Software Development | Python | 15k+ | 2024 |
 | [Cline](https://github.com/cline/cline) | Autonomous coding agent right in your IDE | TypeScript | 49k+ | 2024 |
+| [Warp](https://github.com/warpdotdev/Warp) | Warp is the agentic development environment, built for coding with multiple AI agents | - | 24k+ | 2024 |
 | [Goose](https://github.com/block/goose) | Open source, extensible AI agent that goes beyond code suggestions | Rust | 18k+ | 2024 |
 | [Codex](https://github.com/openai/codex) | Lightweight coding agent that runs in your terminal | Rust | 34k+ | 2024 |
 | [CodeT5+](https://github.com/salesforce/CodeT5) | Code-aware language models for code understanding and generation | Python | 5k+ | 2024 |
@@ -84,6 +85,7 @@ A curated collection of cutting-edge AI agent projects, frameworks, and research
 | [Make](https://www.make.com/) | Visual platform for building powerful workflows | - | - | 2024 |
 | [Semantic Kernel](https://github.com/microsoft/semantic-kernel) | Integrate cutting-edge LLM technology quickly and easily into your apps | C#/Python | 15k+ | 2024 |
 | [Composio](https://github.com/ComposioHQ/composio) | Composio equips your AI agents & LLMs with 100+ high-quality integrations via function calling | TypeScript | 25k+ | 2024 |
+| [AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) | AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way | Python | 28k+ | 2024 |
 
 ### 🧠 AI Assistant & Chat Agents
 
@@ -99,6 +101,7 @@ A curated collection of cutting-edge AI agent projects, frameworks, and research
 | [Cherry Studio](https://github.com/CherryHQ/cherry-studio) | 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers | TypeScript | 31k+ | 2024 |
 | [Anything LLM](https://github.com/Mintplex-Labs/anything-llm) | The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder | JavaScript | 47k+ | 2024 |
 | [Suna](https://github.com/kortix-ai/suna) | Suna - Open Source Generalist AI Agent | TypeScript | 17k+ | 2024 |
+| [LibreChat](https://github.com/danny-avila/LibreChat) | Enhanced ChatGPT Clone with Agents, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting | TypeScript | 28k+ | 2024 |
 
 ### 🌐 Browser Automation & Web Agents
 
@@ -113,6 +116,7 @@ A curated collection of cutting-edge AI agent projects, frameworks, and research
 |---------|-------------|----------|-------|--------------|
 | [TradingAgents](https://github.com/TauricResearch/TradingAgents) | TradingAgents: Multi-Agents LLM Financial Trading Framework | Python | 18k+ | 2024 |
 | [OpenBB](https://github.com/OpenBB-finance/OpenBB) | Financial data aggregator for humans and AI agents | Python | 49k+ | 2024 |
+| [Qlib](https://github.com/microsoft/qlib) | Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions | Python | 28k+ | 2024 |
 
 ### 🔧 System Prompts & Models
 
@@ -126,6 +130,7 @@ A curated collection of cutting-edge AI agent projects, frameworks, and research
 |---------|-------------|----------|-------|--------------|
 | [Huginn](https://github.com/huginn/huginn) | Create agents that monitor and act on your behalf. Your agents are standing by! | Ruby | 47k+ | 2024 |
 | [Arthas](https://github.com/alibaba/arthas) | Alibaba Java Diagnostic Tool Arthas | Java | 36k+ | 2024 |
+| [OmniParser](https://github.com/microsoft/OmniParser) | A simple screen parsing tool towards pure vision based GUI agent | Jupyter Notebook | 23k+ | 2024 |
 
 ### 🔧 Development Frameworks & Tools
 
@@ -134,6 +139,7 @@ A curated collection of cutting-edge AI agent projects, frameworks, and research
 | [Langflow](https://github.com/langflow-ai/langflow) | Langflow is a powerful tool for building and deploying AI-powered agents and workflows | Python | 98k+ | 2024 |
 | [RAGFlow](https://github.com/infiniflow/ragflow) | RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding | TypeScript | 62k+ | 2024 |
 | [Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) | Langchain-Chatchat based on Langchain with ChatGLM, Qwen and Llama RAG and Agent app | TypeScript | 35k+ | 2024 |
+| [FastGPT](https://github.com/labring/FastGPT) | FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration | TypeScript | 25k+ | 2024 |
 | [Haystack](https://github.com/deepset-ai/haystack) | LLM framework for building production-ready applications | Python | 10k+ | 2024 |
 | [AutoGen Studio](https://github.com/microsoft/autogen) | Visual interface for AutoGen | Python | 25k+ | 2024 |
 | [LangSmith](https://github.com/langchain-ai/langsmith) | Platform for debugging, testing, evaluating, and monitoring LLM applications | Python | 5k+ | 2024 |
