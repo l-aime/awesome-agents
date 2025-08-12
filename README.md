@@ -57,7 +57,7 @@ A curated collection of cutting-edge AI agent projects, frameworks, and research
 | Project | Description | Language | Stars | Last Updated |
 |---------|-------------|----------|-------|--------------|
 | [AutoGen](https://github.com/microsoft/autogen) | Enable next-gen LLM applications via multi-agent conversations | Python | 25k+ | 2024 |
-| [AgentGPT](https://github.com/reworkd/AgentGPT) | Assemble, configure, and deploy autonomous AI Agents in your browser | TypeScript | 25k+ | 2024 |
+| [AgentGPT](https://github.com/reworkd/AgentGPT) | 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser | TypeScript | 34k+ | 2024 |
 | [SuperAGI](https://github.com/TransformerOptimus/SuperAGI) | A dev-first open source autonomous AI agent framework | Python | 15k+ | 2024 |
 | [Flowise](https://github.com/FlowiseAI/Flowise) | Drag & drop UI to build your customized LLM flow | TypeScript | 15k+ | 2024 |
 | [Langflow](https://github.com/logspace-ai/langflow) | UI for LangChain, designed with react-flow | Python | 15k+ | 2024 |
@@ -72,6 +72,8 @@ A curated collection of cutting-edge AI agent projects, frameworks, and research
 | [CAMEL](https://github.com/camel-ai/camel) | Communicative Agents for Mind Exploration | Python | 8k+ | 2024 |
 | [LangGraph](https://github.com/langchain-ai/langgraph) | Build stateful, multi-actor applications with LLMs | Python | 15k+ | 2024 |
 | [AutoGen](https://github.com/microsoft/autogen) | A programming framework for agentic AI | Python | 48k+ | 2024 |
+| [CrewAI Inc](https://github.com/crewAIInc/crewAI) | Framework for orchestrating role-playing, autonomous AI agents | Python | 35k+ | 2024 |
+| [Agno](https://github.com/agno-agi/agno) | Full-stack framework for building Multi-Agent Systems with memory, knowledge and reasoning | Python | 31k+ | 2024 |
 
 ### 💼 Business & Productivity Agents
 
@@ -123,6 +125,7 @@ A curated collection of cutting-edge AI agent projects, frameworks, and research
 | Project | Description | Language | Stars | Last Updated |
 |---------|-------------|----------|-------|--------------|
 | [Huginn](https://github.com/huginn/huginn) | Create agents that monitor and act on your behalf. Your agents are standing by! | Ruby | 47k+ | 2024 |
+| [Arthas](https://github.com/alibaba/arthas) | Alibaba Java Diagnostic Tool Arthas | Java | 36k+ | 2024 |
 
 ### 🔧 Development Frameworks & Tools
 
@@ -130,6 +133,7 @@ A curated collection of cutting-edge AI agent projects, frameworks, and research
 |---------|-------------|----------|-------|--------------|
 | [Langflow](https://github.com/langflow-ai/langflow) | Langflow is a powerful tool for building and deploying AI-powered agents and workflows | Python | 98k+ | 2024 |
 | [RAGFlow](https://github.com/infiniflow/ragflow) | RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding | TypeScript | 62k+ | 2024 |
+| [Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) | Langchain-Chatchat based on Langchain with ChatGLM, Qwen and Llama RAG and Agent app | TypeScript | 35k+ | 2024 |
 | [Haystack](https://github.com/deepset-ai/haystack) | LLM framework for building production-ready applications | Python | 10k+ | 2024 |
 | [AutoGen Studio](https://github.com/microsoft/autogen) | Visual interface for AutoGen | Python | 25k+ | 2024 |
 | [LangSmith](https://github.com/langchain-ai/langsmith) | Platform for debugging, testing, evaluating, and monitoring LLM applications | Python | 5k+ | 2024 |
