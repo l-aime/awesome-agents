@@ -25,7 +25,7 @@ A curated collection of cutting-edge AI agent projects, frameworks, and research
 
 | Project | Description | Language | Stars | Last Updated |
 |---------|-------------|----------|-------|--------------|
-| [OpenDevin](https://github.com/OpenDevin/OpenDevin) | An open-source alternative to Devin | Python | 10k+ | 2024 |
+| [OpenHands](https://github.com/OpenDevin/OpenDevin) | An open-source alternative to Devin | Python | 10k+ | 2024 |
 | [Sweep](https://github.com/sweepai/sweep) | AI-powered junior developer for small features and bug fixes | Python | 15k+ | 2024 |
 | [GPT Engineer](https://github.com/AntonOsika/gpt-engineer) | Specify what you want it to build, the AI asks for clarification, and then builds it | Python | 40k+ | 2024 |
 | [MetaGPT](https://github.com/geekan/MetaGPT) | The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo | Python | 40k+ | 2024 |
@@ -113,64 +113,64 @@ A curated collection of cutting-edge AI agent projects, frameworks, and research
 
 ### Foundational Papers
 
-- **"ReAct: Synergizing Reasoning and Acting in Language Models"** - Yao et al., 2022
-- **"Toolformer: Language Models Can Teach Themselves to Use Tools"** - Schick et al., 2023
-- **"Reflexion: Language Agents with Verbal Reinforcement Learning"** - Shinn et al., 2023
-- **"Self-Consistency Improves Chain of Thought Reasoning in Language Models"** - Wang et al., 2022
-- **"Tree of Thoughts: Deliberate Problem Solving with Large Language Models"** - Yao et al., 2023
+- **["ReAct: Synergizing Reasoning and Acting in Language Models"](https://arxiv.org/abs/2210.03629)** - Yao et al., 2022
+- **["Toolformer: Language Models Can Teach Themselves to Use Tools"](https://arxiv.org/abs/2302.04761)** - Schick et al., 2023
+- **["Reflexion: Language Agents with Verbal Reinforcement Learning"](https://arxiv.org/abs/2303.11366)** - Shinn et al., 2023
+- **["Self-Consistency Improves Chain of Thought Reasoning in Language Models"](https://arxiv.org/abs/2203.11171)** - Wang et al., 2022
+- **["Tree of Thoughts: Deliberate Problem Solving with Large Language Models"](https://arxiv.org/abs/2305.10601)** - Yao et al., 2023
 
 ### Multi-Agent Research
 
-- **"MetaGPT: Meta Programming for Multi-Agent Collaborative Framework"** - Hong et al., 2023
-- **"ChatDev: Communicative Agents for Software Development"** - Qian et al., 2023
-- **"CAMEL: Communicative Agents for Mind Exploration"** - Li et al., 2023
-- **"Agent System: A Survey of Fundamentals, Platforms, and Challenges"** - Wang et al., 2023
+- **["MetaGPT: Meta Programming for Multi-Agent Collaborative Framework"](https://arxiv.org/abs/2308.00352)** - Hong et al., 2023
+- **["ChatDev: Communicative Agents for Software Development"](https://arxiv.org/abs/2307.07924)** - Qian et al., 2023
+- **["CAMEL: Communicative Agents for Mind Exploration"](https://arxiv.org/abs/2303.17760)** - Li et al., 2023
+- **["Agent System: A Survey of Fundamentals, Platforms, and Challenges"](https://arxiv.org/abs/2312.14034)** - Wang et al., 2023
 
 ## 🎯 Use Cases
 
 ### Software Development
-- **Code Generation**: Automated code writing and refactoring
-- **Bug Detection**: Automated testing and debugging
-- **Documentation**: Auto-generating technical documentation
-- **Code Review**: Automated code quality assessment
+- **Code Generation**: [GitHub Copilot](https://github.com/features/copilot), [CodeWhisperer](https://aws.amazon.com/codewhisperer/)
+- **Bug Detection**: [Sweep](https://github.com/sweepai/sweep), [CodeQL](https://github.com/github/codeql)
+- **Documentation**: [AutoDoc](https://github.com/autodoc-ai/autodoc), [Documatic](https://documatic.com/)
+- **Code Review**: [CodeReviewGPT](https://github.com/mattzcarey/code-review-gpt), [ReviewGPT](https://github.com/vibovenkat123/reviewGPT)
 
 ### Research & Analysis
-- **Data Analysis**: Automated data processing and insights
-- **Literature Review**: Automated research synthesis
-- **Market Research**: Competitive analysis and trend identification
-- **Financial Analysis**: Automated trading and portfolio management
+- **Data Analysis**: [GPT Researcher](https://github.com/assafelovic/gpt-researcher), [Pandas AI](https://github.com/gventuri/pandas-ai)
+- **Literature Review**: [Elicit](https://elicit.org/), [Consensus](https://consensus.app/)
+- **Market Research**: [Perplexity](https://www.perplexity.ai/), [ChatGPT Plugins](https://openai.com/blog/chatgpt-plugins)
+- **Financial Analysis**: [BloombergGPT](https://arxiv.org/abs/2303.17564), [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT)
 
 ### Content Creation
-- **Writing**: Blog posts, articles, and creative writing
-- **Design**: UI/UX design and graphic creation
-- **Video Production**: Automated video editing and creation
-- **Social Media**: Automated content scheduling and engagement
+- **Writing**: [Jasper](https://www.jasper.ai/), [Copy.ai](https://www.copy.ai/), [Writesonic](https://writesonic.com/)
+- **Design**: [Midjourney](https://www.midjourney.com/), [DALL-E](https://openai.com/dall-e-2), [Stable Diffusion](https://stability.ai/)
+- **Video Production**: [Runway](https://runwayml.com/), [Synthesia](https://www.synthesia.io/)
+- **Social Media**: [Buffer](https://buffer.com/), [Hootsuite](https://hootsuite.com/)
 
 ### Business Operations
-- **Customer Service**: Automated support and inquiry handling
-- **Sales**: Lead generation and qualification
-- **Marketing**: Campaign optimization and personalization
-- **HR**: Recruitment and employee onboarding
+- **Customer Service**: [Intercom](https://www.intercom.com/), [Zendesk](https://www.zendesk.com/)
+- **Sales**: [HubSpot](https://www.hubspot.com/), [Salesforce Einstein](https://www.salesforce.com/products/einstein/)
+- **Marketing**: [Marketo](https://www.marketo.com/), [Mailchimp](https://mailchimp.com/)
+- **HR**: [HireVue](https://www.hirevue.com/), [Pymetrics](https://www.pymetrics.com/)
 
 ## 📖 Learning Resources
 
 ### Books
-- **"Artificial Intelligence: A Modern Approach"** - Russell & Norvig
-- **"Reinforcement Learning: An Introduction"** - Sutton & Barto
-- **"Deep Learning"** - Goodfellow, Bengio & Courville
-- **"The Alignment Problem"** - Christian, 2020
+- **["Artificial Intelligence: A Modern Approach"](https://aima.cs.berkeley.edu/)** - Russell & Norvig
+- **["Reinforcement Learning: An Introduction"](http://incompleteideas.net/book/the-book-2nd.html)** - Sutton & Barto
+- **["Deep Learning"](https://www.deeplearningbook.org/)** - Goodfellow, Bengio & Courville
+- **["The Alignment Problem"](https://www.brianchristian.org/the-alignment-problem/)** - Christian, 2020
 
 ### Online Courses
-- **Stanford CS234: Reinforcement Learning**
-- **MIT 6.S191: Introduction to Deep Learning**
-- **Berkeley CS285: Deep Reinforcement Learning**
-- **Coursera: Machine Learning Specialization**
+- **[Stanford CS234: Reinforcement Learning](https://web.stanford.edu/class/cs234/)**
+- **[MIT 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/)**
+- **[Berkeley CS285: Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/)**
+- **[Coursera: Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction)**
 
 ### Blogs & Newsletters
-- **Anthropic Blog**: AI safety and research updates
-- **OpenAI Blog**: Latest developments in AI
-- **DeepMind Blog**: Research insights and breakthroughs
-- **AI Alignment Newsletter**: Safety and alignment research
+- **[Anthropic Blog](https://www.anthropic.com/research)**: AI safety and research updates
+- **[OpenAI Blog](https://openai.com/blog)**: Latest developments in AI
+- **[DeepMind Blog](https://deepmind.com/blog)**: Research insights and breakthroughs
+- **[AI Alignment Newsletter](https://rohinshah.com/alignment-newsletter/)**: Safety and alignment research
 
 ## 🚀 Architecture Patterns
 
@@ -205,11 +205,11 @@ A curated collection of cutting-edge AI agent projects, frameworks, and research
 - **Collaboration**: Multi-agent coordination
 
 ### Benchmark Datasets
-- **HotpotQA**: Multi-hop reasoning
-- **GSM8K**: Mathematical problem solving
-- **HumanEval**: Code generation evaluation
-- **MMLU**: Multi-task language understanding
-- **AgentBench**: Agent-specific evaluation
+- **[HotpotQA](https://hotpotqa.github.io/)**: Multi-hop reasoning
+- **[GSM8K](https://github.com/openai/grade-school-math)**: Mathematical problem solving
+- **[HumanEval](https://github.com/openai/human-eval)**: Code generation evaluation
+- **[MMLU](https://github.com/hendrycks/test)**: Multi-task language understanding
+- **[AgentBench](https://github.com/THUDM/AgentBench)**: Agent-specific evaluation
 
 ### Evaluation Metrics
 - **Success Rate**: Task completion percentage
